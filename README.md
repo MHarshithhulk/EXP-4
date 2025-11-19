@@ -1,11 +1,10 @@
-# EXP-4
-EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+## EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+# AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+# THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
 
@@ -38,15 +37,26 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="1262" height="590" alt="image" src="https://github.com/user-attachments/assets/9efc0440-f7c8-4d85-891d-bcb511ee84e1" />
+
+
 Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<img width="1262" height="817" alt="image" src="https://github.com/user-attachments/assets/3f9fe596-fa02-4080-bd95-9be45aa405fc" />
+
+
+TABULAR COLUMN:
+
+![WhatsApp Image 2025-10-28 at 18 52 35_50c8c5bf](https://github.com/user-attachments/assets/7a5a2462-91c0-4772-bca3-c8f846e04ae8)
+![WhatsApp Image 2025-10-28 at 18 53 06_b7ad3161](https://github.com/user-attachments/assets/53853412-aee9-442c-a896-b7de817be59c)
+![WhatsApp Image 2025-10-28 at 18 55 36_f44e2485](https://github.com/user-attachments/assets/1965aae8-9938-4760-b734-4fea1ffdbdfb)
+![WhatsApp Image 2025-10-28 at 18 55 51_21d648f8](https://github.com/user-attachments/assets/259c1347-136d-44ed-9d60-68f14705685b)
+![WhatsApp Image 2025-10-28 at 18 56 09_021687d8](https://github.com/user-attachments/assets/9bcde814-1492-4b51-8089-8943c9f47a8a)
+![WhatsApp Image 2025-10-28 at 18 52 40_88653bbb](https://github.com/user-attachments/assets/b0386540-520e-4303-b302-216ff5576296)
 
 WAVEFORM:
 
+<img width="1267" height="733" alt="image" src="https://github.com/user-attachments/assets/619ba9a1-145f-4467-b233-6cb5d3321c3a" />
 
 RESULT:
 
